@@ -1,8 +1,4 @@
 <resources>
-    <string name="app_name">sandbox3</string>
+    <string name="app_name">Voting Session</string>
 
-    <string name="hello_world">Emily Leazer</string>
-    <string name="not_Leazer">Reed M Kottke</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_emily_leazer">EmilyLeazerActivity</string>
 </resources>
